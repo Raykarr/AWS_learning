@@ -30,7 +30,7 @@
 | Language         | Python                  |
 | Deployment       | Ubuntu 22.04 on EC2     |
 | Infra Monitoring | (Planned) CloudWatch    |
-| Search           | (Optional) OpenSearch   |
+| Search           | (Planned) OpenSearch   |
 
 ---
 
