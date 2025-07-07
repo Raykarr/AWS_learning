@@ -53,7 +53,7 @@
 1. **Clone the Repo**
 
 ```bash
-git clone https://github.com/your-username/cognitive-mirror.git
+got clone https://github.com/Raykarr/AWS_learning.git
 cd cognitive-mirror
 ```
 
